@@ -11,7 +11,9 @@ int main()
 	printf(mytask);
 	printf("Program\n");
 	char ch;
+	FILE* f = fopen("fel_1.txt","w");
 	while ((ch = getchar()) != EOF)
-		putchar(ch);                      // ch-ban van a következõ karakter
+		fputc(ch,f);                      // ch-ban van a következõ karakter
+	fclose(f);
 	return 0;
 }
