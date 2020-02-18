@@ -20,7 +20,7 @@ int main(void) {
 	setbuf(stdout, NULL);        // Kikapcsolja a bufferelest
 	printf(myid);
 	printf(mytask);
-	printf("Program\n");
+	printf("Program\n"); ///megváltoztatva nagy P re
 
 
 
