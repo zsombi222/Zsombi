@@ -1,5 +1,4 @@
 #include <stdio.h>
-//#include <iostream>
 
 char myid[] = "A'rvai Zsombor,1MI,2,L2 <arvaizsombor@gmail.com> VC2WTQ\n";
 char mytask[] = "Feladat = 1\n";
