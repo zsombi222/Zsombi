@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-#include <cmath>
+#include <cmath> //cématek inklúd
 
 double f(double x) {
 	if (x > 7) {
