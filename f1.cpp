@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <iosttream>
+#include <iostream>
 
 char myid[] = "A'rvai Zsombor,1MI,2,L2 <arvaizsombor@gmail.com> VC2WTQ\n";
 char mytask[] = "Feladat = 1\n";
