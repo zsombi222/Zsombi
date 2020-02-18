@@ -9,9 +9,9 @@ int main()
 	setbuf(stdout, NULL);        // Kikapcsolja a bufferelest
 	printf(myid);
 	printf(mytask);
-	printf("Program\n");
+	printf("Mail\n");
 	char ch;
 	while ((ch = getchar()) != EOF)
-		putchar(ch);                      // ch-ban van a következõ karakter
+		putchar(ch);                      // ch-ban van a kÃ¶vetkezÃµ karakter
 	return 0;
 }
