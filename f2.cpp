@@ -20,7 +20,7 @@ int main(void) {
 	setbuf(stdout, NULL);        // Kikapcsolja a bufferelest
 	printf(myid);
 	printf(mytask);
-	printf("program\n");
+	printf("Program\n");
 
 
 
