@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 char myid[] = "A'rvai Zsombor,1MI,2,L2 <arvaizsombor@gmail.com> VC2WTQ\n";
-char mytask[] = "Feladat = 3\n";
+char mytask[] = "Feladat = 5\n"; //5ös feladat
 
 int main()
 {
